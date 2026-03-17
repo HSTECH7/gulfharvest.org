@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on March 16, 2026 at 7:29 am by All in One SEO v4.9.5 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/header/main-header-2/]]></loc>
+		<lastmod><![CDATA[2025-05-05T05:08:36+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/07/logo-white-bg-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/07/logo-dark-BG-1.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/header/header-fixed/]]></loc>
+		<lastmod><![CDATA[2025-04-26T17:29:14+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/07/logo-white-bg-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/07/logo-dark-BG-1.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/header/header-transparent/]]></loc>
+		<lastmod><![CDATA[2025-04-16T09:48:41+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/07/logo@2x-white-1-1.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/garlic-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/carrot-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/onions-370x410.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/header/header-home-03/]]></loc>
+		<lastmod><![CDATA[2025-04-16T09:48:41+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/07/logo@2x-white-1-1.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/garlic-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/carrot-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/onions-370x410.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/header/header-home-04/]]></loc>
+		<lastmod><![CDATA[2025-04-16T09:48:41+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/07/logo@2x-1.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2022/07/logo@2x-white-1-1.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/garlic-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/carrot-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/onions-370x410.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/header/main-header-2-2/]]></loc>
+		<lastmod><![CDATA[2022-07-19T09:41:12+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/logo@2x.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/logo@2x-white-1.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/garlic-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/carrot-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/onions-370x410.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/header/header-fixed-2/]]></loc>
+		<lastmod><![CDATA[2022-07-08T09:24:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/logo@2x.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/logo@2x-white-1.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/garlic-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/carrot-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/onions-370x410.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/header/header-home-04-2/]]></loc>
+		<lastmod><![CDATA[2022-07-08T09:21:44+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/logo@2x.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/logo@2x-white-1.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/garlic-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/carrot-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/onions-370x410.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/header/header-home-03-2/]]></loc>
+		<lastmod><![CDATA[2022-07-07T08:15:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/logo@2x-white-1.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/garlic-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/carrot-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/onions-370x410.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/header/header-transparent-2/]]></loc>
+		<lastmod><![CDATA[2022-07-06T07:14:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/logo@2x-white-1.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/garlic-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/carrot-370x410.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://tplabs.co/agrios/wp-content/uploads/2022/07/onions-370x410.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+</urlset>
